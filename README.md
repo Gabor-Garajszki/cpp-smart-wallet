@@ -18,3 +18,6 @@ A modular, object-oriented console application written in C++ for tracking and a
 ├── Expense.h / .cpp        # Concrete class for expenses (negative valuation)
 ├── Wallet.h / .cpp         # Core container managing memory, rates, and sorting
 └── SmartWallet.cpp         # Application entry point, CLI loop, and user validation
+
+## Future Improvements
+- Multi-threading support for concurrent transaction parsing.
